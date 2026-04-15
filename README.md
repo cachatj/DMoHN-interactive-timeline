@@ -6,6 +6,19 @@ this project attempts to take on that challenge - building a dynamic, interactiv
 
 A consilience exploratory environment is where all of human history, as well as an individuals life-trajectory, can be plotted, mapped, connected, amplified or negated across time and space (geological, historical) such that we can see, play with and manipulate the particular ways in which culture/nurture and biology/nature interact across all societies to create the commonalities of human nature.
 
+We are describing a dynamic, agent-based model of Cultural Evolution, Biological Evolution and Intellectual History of our species.
+
+In this "consilience" interface, your "blobs" function as carriers of memes (units of cultural information) or technicities. The "Agricultural Revolution" you mention serves as a classic example of Catalytic Interaction: where the meeting of two distinct sets of knowledge (e.g., specific botanical knowledge of wild grains from one group meeting the sedentary storage techniques of another) creates a emergent, transformative societal shift.
+
+To build such an interface, you might look into:
+
+- Agent-Based Modeling (ABM): To simulate the "blobs" moving across a geospatial lattice.
+
+- Semantic Networks: To represent the "knowledge" or "how-know" within each group.
+
+- Geospatial Information Systems (GIS): To map these interactions onto historical climate and terrain data.
+
+
 ## Two Main Views - Google Earth & Level of Analysis Timelines
 The application will consist of two main perpecitves that can easily be switched back and forth from. Both of which are anchored by 1)chronological time and 2) the natural environment (weather at that time). 
 
