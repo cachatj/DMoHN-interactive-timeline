@@ -20,6 +20,11 @@ To build such an interface, you might look into:
 
 ## Similar Projects 
 - https://landnotes.org/
+- https://timeline-of-everything.milst.dev/
+- https://legacy.calacademy.org/human-odyssey/map/
+- https://www.the-map-as-history.com/
+- https://worldpopulationhistory.org/map/80/mercator/1/0/25/
+- https://geacron.com/home-en/
 
 ## Two Main Views - Google Earth & Level of Analysis Timelines
 The application will consist of two main perpecitves that can easily be switched back and forth from. Both of which are anchored by 1)chronological time and 2) the natural environment (weather at that time). 
