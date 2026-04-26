@@ -18,12 +18,16 @@ To build such an interface, you might look into:
 
 - Geospatial Information Systems (GIS): To map these interactions onto historical climate and terrain data.
 
+## Similar Projects 
+- https://landnotes.org/
 
 ## Two Main Views - Google Earth & Level of Analysis Timelines
 The application will consist of two main perpecitves that can easily be switched back and forth from. Both of which are anchored by 1)chronological time and 2) the natural environment (weather at that time). 
 
 # Google Earth View 
 my naive attempt in 2008, https://www.youtube.com/watch?v=ZwgnZXNRkHU was inspired by 
+
+There are videos in `./videos` that also give a good repsentation of what we are after.
 
 
 
@@ -48,6 +52,8 @@ I am interested in bringing this timeline graphic to life, in the form of an int
 
 for example: he first major human civilization to develop systematic farming was the Sumerians in Mesopotamia. BUT - The Sumerian Agricultural Revolution was less a story of local discovery and more a story of geographical "luck" and intense cultural exchange. While the Sumerians are credited with scaling agriculture into a civilization-building engine, the building blocks—the crops and animals—originally came from elsewhere. Essentially, the "Farming Toolkit" - both the know-how & physical inputs - only came together because ideas and physical good were constantly in motion. The tool we are building should be able to map out the various components of this Farming Toolkit, where they came from, and as we play out the historical time line - BOOM! the farming toolkit is achieved, and suddenly a 5x explosion in your cultural in-group & an almost immmediate need to rethink rules of fair exchange (economics) & how to maintain order so we can all just get allong (politics) - a shift in the WelGeist.
 
+
+\\
 
 ## Task 1 - 
 Is there a way to quickly create this HTML page (essentially an infinity canvas, with a vector representation of the timeline image loading as the user scrolls), and then peform the linking btw text (people places things) to the mos representative wikiepdia page - or will this require a full tech stack and live webhosts in ordert to make a simple Proof of concept?
